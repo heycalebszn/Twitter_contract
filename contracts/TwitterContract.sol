@@ -1,4 +1,4 @@
-// SPOX-License-Identifier: MIT
+// SPOX-License-Identifier: MI
 
 pragma solidity ^0.8.0
 
